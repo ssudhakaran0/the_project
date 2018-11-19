@@ -1,0 +1,3 @@
+[submodule "the_common_code"]
+	path = the_common_code
+	url = https://github.com/ssudhakaran0/the_common_code.git
